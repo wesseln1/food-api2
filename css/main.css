@@ -1,0 +1,12 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.eachFood {
+    border: solid;
+    padding: 5px;
+    text-align: center;
+}
