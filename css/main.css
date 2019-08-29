@@ -6,7 +6,8 @@
 }
 
 .eachFood {
-    border: solid;
+    border: solid darkred;
     padding: 5px;
     text-align: center;
+    margin: 10px;
 }
